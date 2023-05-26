@@ -1,0 +1,54 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Handyman Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+        }
+        
+        .contact-info h3 {
+            color: #333;
+        }
+
+        .contact-info p {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Handyman Services!</h1>
+    <p>
+        We provide professional and reliable handyman services to help you with various tasks and repairs around your home or office.
+    </p>
+    <h2>Our Services</h2>
+    <ul>
+        <li>Plumbing repairs and installations</li>
+        <li>Electrical repairs and maintenance</li>
+        <li>Carpentry and furniture assembly</li>
+        <li>Painting and wallpapering</li>
+        <li>General home maintenance</li>
+    </ul>
+    <div class="contact-info">
+        <h3>Contact Information</h3>
+        <p>Phone: 123-456-7890</p>
+        <p>Email: info@handymanservices.com</p>
+        <p>Address: 123 Main Street, City, State</p>
+    </div>
+</body>
+</html>
